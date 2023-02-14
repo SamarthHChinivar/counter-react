@@ -1,6 +1,6 @@
 {
-  "homepage": "https://samarthhchinivar.github.io/simple-counter-react",
-  "name": "simple-counter",
+  "homepage": "https://samarthhchinivar.github.io/counter-react",
+  "name": "counter-react",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
