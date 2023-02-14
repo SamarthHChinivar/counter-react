@@ -1,8 +1,9 @@
 # **[Demonstration of Project](https://samarthhchinivar.github.io/counter-react)**
 
-
+https://user-images.githubusercontent.com/104615876/218734415-ed420840-fb71-4635-b859-a67edec2b92c.mp4
 <br/>
-
+![main-shot](https://user-images.githubusercontent.com/104615876/218734505-4df88bc2-03b0-4f77-b1ba-ff8a36b793b0.jpg)
+<br/>
 - This website is available on domain https://samarthhchinivar.github.io/counter-react 
 
 ### Getting Started with Create React App
