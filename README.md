@@ -1,10 +1,9 @@
-# **[Demonstration of Project](https://samarthhchinivar.github.io/todo-react)**
+# **[Demonstration of Project](https://samarthhchinivar.github.io/counter-react)**
 
-<img src="https://user-images.githubusercontent.com/104615876/194720077-f037c723-d4bf-4c3d-99e1-a7b424add35d.jpg" alt="click" height="250" />
-<img src="https://user-images.githubusercontent.com/104615876/194720081-b343c975-8c84-4791-8d20-b38b768ffc14.jpg" alt="todo-1" height="250" width="450" />
+
 <br/>
 
-- This website is available on domain https://samarthhchinivar.github.io/todo-react 
+- This website is available on domain https://samarthhchinivar.github.io/counter-react 
 
 ### Getting Started with Create React App
 ![react-version](https://user-images.githubusercontent.com/104615876/189540317-b5c49c8e-fdad-42cb-ac48-11dc95d34367.png)
